@@ -30,6 +30,6 @@ My code includes some bonuses
 
 Score:
 
-![alt text](115.png)
+![alt text](115.png?s=100)
 
 
