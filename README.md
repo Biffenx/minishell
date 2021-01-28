@@ -29,4 +29,6 @@ My code includes some bonuses
 * The separation of commands with ";".
 
 Score:
-![alt text](https://github.com/Biffenx/minishell/115.png "115png")
+![alt text](https://github.com/Biffenx/minishell/115.png?raw=true "Title")
+
+
